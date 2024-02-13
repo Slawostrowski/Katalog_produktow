@@ -1,1 +1,50 @@
-1,Majtki M�skie,9.99
+1,Karta graficzna GTX 1080,101.5
+2,Pamięć RAM DDR4 16GB,103.0
+3,Dysk SSD 1TB,104.5
+4,Zasilacz modularny 750W,106.0
+5,Płyta główna Z390,107.5
+6,Procesor Intel Core i7,109.0
+7,Chłodzenie wodne CPU,110.5
+8,Obudowa ATX pełnowymiarowa,112.0
+9,Monitor LED 27 cali,113.5
+10,Klawiatura mechaniczna RGB,115.0
+11,Mysz gamingowa 8000 DPI,116.5
+12,Podkładka pod mysz XL,118.0
+13,Słuchawki z mikrofonem,119.5
+14,Kamera internetowa HD,121.0
+15,Mikrofon USB do streamingu,122.5
+16,Adapter WiFi dual-band,124.0
+17,Kabel HDMI 2m,125.5
+18,Zestaw narzędzi do montażu PC,127.0
+19,Pasta termoprzewodząca,128.5
+20,Filtr przeciwkurzowy do obudowy,130.0
+21,Taśma LED RGB,131.5
+22,Głośniki komputerowe stereo,133.0
+23,Karta dźwiękowa USB,134.5
+24,Napęd DVD-RW zewnętrzny,136.0
+25,Hub USB 3.0 4-portowy,137.5
+26,Kontroler do gier bezprzewodowy,139.0
+27,Zewnętrzny dysk twardy 2TB,140.5
+28,Czytnik kart pamięci,142.0
+29,Ładowarka do akumulatorów AA/AAA,143.5
+30,Adapter Bluetooth USB,145.0
+31,Ramię montażowe do monitora,146.5
+32,Stacja dokująca do dysków HDD/SSD,148.0
+33,Zasilacz awaryjny UPS 650VA,149.5
+34,Router WiFi AC1200,151.0
+35,Switch sieciowy 8-portowy,152.5
+36,Kabel sieciowy Cat6 10m,154.0
+37,Tester kabli RJ45/RJ11,155.5
+38,Osłony na kable,157.0
+39,Zestaw śrub do montażu PC,158.5
+40,Wentylator obudowy 120mm,160.0
+41,Riser card PCIe x16,161.5
+42,Dok stacja do SSD M.2,163.0
+43,Moduł TPM do płyt głównych,164.5
+44,Kieszeń na dysk HDD 2.5'',166.0
+45,Przełącznik KVM USB,167.5
+46,Listwa zasilająca z filtrem,169.0
+47,Adapter zasilania SATA/Molex,170.5
+48,Karta sieciowa PCIe WiFi,172.0
+49,Karta rozszerzeń USB-C,173.5
+50,Kieszeń na dysk HDD 3.5'',175.0
