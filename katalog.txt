@@ -1,1 +1,50 @@
-1,Majtki Mêskie,9.99
+1,Karta graficzna GTX 1080,101.5
+2,Pamiêæ RAM DDR4 16GB,103.0
+3,Dysk SSD 1TB,104.5
+4,Zasilacz modularny 750W,106.0
+5,P³yta g³ówna Z390,107.5
+6,Procesor Intel Core i7,109.0
+7,Ch³odzenie wodne CPU,110.5
+8,Obudowa ATX pe³nowymiarowa,112.0
+9,Monitor LED 27 cali,113.5
+10,Klawiatura mechaniczna RGB,115.0
+11,Mysz gamingowa 8000 DPI,116.5
+12,Podk³adka pod mysz XL,118.0
+13,S³uchawki z mikrofonem,119.5
+14,Kamera internetowa HD,121.0
+15,Mikrofon USB do streamingu,122.5
+16,Adapter WiFi dual-band,124.0
+17,Kabel HDMI 2m,125.5
+18,Zestaw narzêdzi do monta¿u PC,127.0
+19,Pasta termoprzewodz¹ca,128.5
+20,Filtr przeciwkurzowy do obudowy,130.0
+21,Taœma LED RGB,131.5
+22,G³oœniki komputerowe stereo,133.0
+23,Karta dŸwiêkowa USB,134.5
+24,Napêd DVD-RW zewnêtrzny,136.0
+25,Hub USB 3.0 4-portowy,137.5
+26,Kontroler do gier bezprzewodowy,139.0
+27,Zewnêtrzny dysk twardy 2TB,140.5
+28,Czytnik kart pamiêci,142.0
+29,£adowarka do akumulatorów AA/AAA,143.5
+30,Adapter Bluetooth USB,145.0
+31,Ramiê monta¿owe do monitora,146.5
+32,Stacja dokuj¹ca do dysków HDD/SSD,148.0
+33,Zasilacz awaryjny UPS 650VA,149.5
+34,Router WiFi AC1200,151.0
+35,Switch sieciowy 8-portowy,152.5
+36,Kabel sieciowy Cat6 10m,154.0
+37,Tester kabli RJ45/RJ11,155.5
+38,Os³ony na kable,157.0
+39,Zestaw œrub do monta¿u PC,158.5
+40,Wentylator obudowy 120mm,160.0
+41,Riser card PCIe x16,161.5
+42,Dok stacja do SSD M.2,163.0
+43,Modu³ TPM do p³yt g³ównych,164.5
+44,Kieszeñ na dysk HDD 2.5'',166.0
+45,Prze³¹cznik KVM USB,167.5
+46,Listwa zasilaj¹ca z filtrem,169.0
+47,Adapter zasilania SATA/Molex,170.5
+48,Karta sieciowa PCIe WiFi,172.0
+49,Karta rozszerzeñ USB-C,173.5
+50,Kieszeñ na dysk HDD 3.5'',175.0
