@@ -1,50 +1,52 @@
 1,Karta graficzna GTX 1080,101.5
-2,Pamiƒôƒá RAM DDR4 16GB,103.0
+2,PamiÍÊ RAM DDR4 16GB,103.0
 3,Dysk SSD 1TB,104.5
 4,Zasilacz modularny 750W,106.0
-5,P≈Çyta g≈Ç√≥wna Z390,107.5
+5,P≥yta g≥Ûwna Z390,107.5
 6,Procesor Intel Core i7,109.0
-7,Ch≈Çodzenie wodne CPU,110.5
-8,Obudowa ATX pe≈Çnowymiarowa,112.0
+7,Ch≥odzenie wodne CPU,110.5
+8,Obudowa ATX pe≥nowymiarowa,112.0
 9,Monitor LED 27 cali,113.5
 10,Klawiatura mechaniczna RGB,115.0
 11,Mysz gamingowa 8000 DPI,116.5
-12,Podk≈Çadka pod mysz XL,118.0
-13,S≈Çuchawki z mikrofonem,119.5
+12,Podk≥adka pod mysz XL,118.0
+13,S≥uchawki z mikrofonem,119.5
 14,Kamera internetowa HD,121.0
 15,Mikrofon USB do streamingu,122.5
 16,Adapter WiFi dual-band,124.0
 17,Kabel HDMI 2m,125.5
-18,Zestaw narzƒôdzi do monta≈ºu PC,127.0
-19,Pasta termoprzewodzƒÖca,128.5
+18,Zestaw narzÍdzi do montaøu PC,127.0
+19,Pasta termoprzewodzπca,128.5
 20,Filtr przeciwkurzowy do obudowy,130.0
-21,Ta≈õma LED RGB,131.5
-22,G≈Ço≈õniki komputerowe stereo,133.0
-23,Karta d≈∫wiƒôkowa USB,134.5
-24,Napƒôd DVD-RW zewnƒôtrzny,136.0
+21,Taúma LED RGB,131.5
+22,G≥oúniki komputerowe stereo,133.0
+23,Karta düwiÍkowa USB,134.5
+24,NapÍd DVD-RW zewnÍtrzny,136.0
 25,Hub USB 3.0 4-portowy,137.5
 26,Kontroler do gier bezprzewodowy,139.0
-27,Zewnƒôtrzny dysk twardy 2TB,140.5
-28,Czytnik kart pamiƒôci,142.0
-29,≈Åadowarka do akumulator√≥w AA/AAA,143.5
+27,ZewnÍtrzny dysk twardy 2TB,140.5
+28,Czytnik kart pamiÍci,142.0
+29,£adowarka do akumulatorÛw AA/AAA,143.5
 30,Adapter Bluetooth USB,145.0
-31,Ramiƒô monta≈ºowe do monitora,146.5
-32,Stacja dokujƒÖca do dysk√≥w HDD/SSD,148.0
+31,RamiÍ montaøowe do monitora,146.5
+32,Stacja dokujπca do dyskÛw HDD/SSD,148.0
 33,Zasilacz awaryjny UPS 650VA,149.5
 34,Router WiFi AC1200,151.0
 35,Switch sieciowy 8-portowy,152.5
 36,Kabel sieciowy Cat6 10m,154.0
 37,Tester kabli RJ45/RJ11,155.5
-38,Os≈Çony na kable,157.0
-39,Zestaw ≈õrub do monta≈ºu PC,158.5
+38,Os≥ony na kable,157.0
+39,Zestaw úrub do montaøu PC,158.5
 40,Wentylator obudowy 120mm,160.0
 41,Riser card PCIe x16,161.5
 42,Dok stacja do SSD M.2,163.0
-43,Modu≈Ç TPM do p≈Çyt g≈Ç√≥wnych,164.5
-44,Kiesze≈Ñ na dysk HDD 2.5'',166.0
-45,Prze≈ÇƒÖcznik KVM USB,167.5
-46,Listwa zasilajƒÖca z filtrem,169.0
+43,Modu≥ TPM do p≥yt g≥Ûwnych,164.5
+44,KieszeÒ na dysk HDD 2.5'',166.0
+45,Prze≥πcznik KVM USB,167.5
+46,Listwa zasilajπca z filtrem,169.0
 47,Adapter zasilania SATA/Molex,170.5
 48,Karta sieciowa PCIe WiFi,172.0
-49,Karta rozszerze≈Ñ USB-C,173.5
-50,Kiesze≈Ñ na dysk HDD 3.5'',175.0
+49,Karta rozszerzeÒ USB-C,173.5
+50,KieszeÒ na dysk HDD 3.5'',175.0
+51,Majtki Gamera (Uzywane),19.99
+52,Skarpetki Gamera (Czyste),15.44
