@@ -48,5 +48,4 @@
 48,Karta sieciowa PCIe WiFi,172.0
 49,Karta rozszerzeñ USB-C,173.5
 50,Kieszeñ na dysk HDD 3.5'',175.0
-51,Majtki Gamera (Uzywane),19.99
-52,Skarpetki Gamera (Czyste),15.44
+51,Klawiatura Mechaniczna firmy "Miros³aw",126.55

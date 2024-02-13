@@ -46,7 +46,7 @@ class Catalog:
 
     def load_products(self):
         try:
-            with open(self.file_path, 'r', encoding='iso-8859-2') as file:
+            with open(self.file_path, 'r', encoding='cp1250') as file:
                 for line in file:
                     id, name, price = line.strip().split(',')
                     self.products.append(Product(int(id), name, float(price)))
