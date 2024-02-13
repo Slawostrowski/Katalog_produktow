@@ -61,6 +61,13 @@ class Catalog:
         else: # default sort by 'id'
             self.products.sort(key=lambda product: product.id)
 
+    def save_sorted_products(self, criterion='id'):
+        self.sort_products(criterion)
+        with open('posortowane.txt', 'w') as file:
+            for product in self.products:
+                file.write(f"{product.id},{product.name},{product.price}\n")
+        print("Posortowane produkty zostały zapisane do pliku 'posortowane.txt'.")
+
     def view_sorted_products(self, criterion='id'):
         self.sort_products(criterion)
         self.view_products()
@@ -191,8 +198,8 @@ def main():
                     criterion = input("Podaj kryterium sortowania (id, name, price): ")
                     catalog.view_sorted_products(criterion)
                 elif sub_choice == '5':
-                    catalog.save_products()
-                    print("Produkty zostały zapisane.")
+                    criterion = input("Podaj kryterium sortowania (id, name, price): ")
+                    catalog.save_sorted_products(criterion)
                 elif sub_choice == '0':
                     break
                 else:
