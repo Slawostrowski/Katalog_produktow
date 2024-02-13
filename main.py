@@ -1,6 +1,6 @@
 import csv #potrzebne by prawidlowo obrabiac katalog klientow (jezeli np oddzielisz adres od kodu miejscowosci przecinkiem !)
 import requests # do obsługi API MF
-from datetime import datetime, timedelta # obsługa czasu
+from datetime import datetime, timedelta # obsługa czasu.
 
 class Product:
     def __init__(self, id, name, price):
