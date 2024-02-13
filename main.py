@@ -62,6 +62,12 @@ class Catalog:
         self.sort_products(criterion)
         self.view_products()
 
+    def save_sorted_products(self):
+        with open('posortowane.txt', 'w') as file:
+            for product in self.products:
+                file.write(f"{product.id},{product.name},{product.price}\n")
+        print("Posortowane produkty zostały zapisane do pliku 'posortowane.txt'.")
+
 
 def display_menu():
     print("\nMenu Katalogu Produktów:")
@@ -101,12 +107,17 @@ def main():
                 display_sort_menu()
                 sort_choice = input("Wybierz opcję sortowania (0-3): ")
 
-                if sort_choice == '1':
-                    catalog.view_sorted_products('id')
-                elif sort_choice == '2':
-                    catalog.view_sorted_products('name')
-                elif sort_choice == '3':
-                    catalog.view_sorted_products('price')
+                if sort_choice in ['1', '2', '3']:
+                    # Mapowanie wyboru użytkownika na kryterium sortowania
+                    criterion = 'id' if sort_choice == '1' else ('name' if sort_choice == '2' else 'price')
+                    catalog.view_sorted_products(criterion)
+
+                    # Logika zapytania o zapis do pliku
+                    print("Czy chcesz zapisać posortowane produkty do pliku 'posortowane.txt'? (tak/nie)")
+                    save_decision = input()
+                    if save_decision.lower() in ('tak', 'yes', 'y', 't'):
+                        catalog.save_sorted_products()
+
                 elif sort_choice == '0':
                     break
                 else:
