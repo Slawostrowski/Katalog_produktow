@@ -183,6 +183,8 @@ def save_invoice(client, products):
     logging.getLogger("openpyxl").setLevel(logging.ERROR)
     wb = openpyxl.load_workbook('Faktura.xlsx')
     sheet = wb.active
+    today = datetime.today().date()
+    sheet['B5'] = today
     sheet['B7'] = f"{client.name}, {client.address}, NIP: {client.nip}"
     for i, product in enumerate(products, start=11):
         sheet[f'B{i}'] = product.name
