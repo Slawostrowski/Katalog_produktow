@@ -2,7 +2,7 @@ import csv #potrzebne by prawidlowo obrabiac katalog klientow (jezeli np oddziel
 import requests # do obsługi API MF
 from datetime import datetime, timedelta # obsługa czasu.
 import openpyxl  # Dodajemy obsługę plików Excel
-import logging # logowanie bledow openpyxl
+import logging # logowanie bledow openpyxl (naglowek moze powodowac bledy)
 
 class Product:
     def __init__(self, id, name, price):
